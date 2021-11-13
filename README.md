@@ -1,2 +1,2 @@
 # pokemon-agent-competition
-For the AI club Pokemon agent competition - non machine learning version
+For the AI club Pokemon agent competition
